@@ -24,12 +24,12 @@ const App: React.FC = () => {
         </div>
         <div className="social-media p-grid">
           <div className="p-col">
-            <a href="https://www.linkedin.com/in/thyago-santos-7b97531b0/" target="_blank" rel="noreferrer" data-testid="social-anchor">
+            <a href="https://www.linkedin.com/in/sthyago/" target="_blank" rel="noreferrer" data-testid="social-anchor">
               <i className="fa fa-linkedin-square"></i>
             </a>
           </div>
           <div className="p-col">
-            <a href="https://github.com/thyago-silva" target="_blank" rel="noreferrer" data-testid="social-anchor">
+            <a href="https://github.com/sthyago" target="_blank" rel="noreferrer" data-testid="social-anchor">
               <i className="fa fa-github-square" aria-hidden="true"></i>
             </a>
           </div>
